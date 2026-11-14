@@ -4,6 +4,7 @@ local.properties
 .idea/
 *.iml
 *.apk
+!dist/memento-debug.apk
 *.aab
 *.jks
 *.keystore
